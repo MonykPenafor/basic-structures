@@ -1,0 +1,14 @@
+Criar repositório no github
+Pegar o link
+
+Ir na pasta do projeto
+Abrir o terminal
+Comandos em ordem:
+Git init
+Git remote add origin ‘link’
+Git add .
+Git commit -m “comentario”
+Git push origin master
+Git log
+
+Voltar no github e atualizar a pag
